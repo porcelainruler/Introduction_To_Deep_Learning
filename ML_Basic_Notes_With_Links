@@ -12,8 +12,11 @@
 
  *Both of above cost function Minimise by Gradient Descent
 
-* Overfitting and Underfitting : https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/ (Regularization - Ridge and Lasso)
+* Overfitting and Underfitting : https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/ (Techiques For Overfit handling 1.Resampling Technique : K-fold Cross Validation 2.Validation Dataset)
 
+* Regularization : https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+  (Regularization - Ridge and Lasso)
 
+*
 
 
